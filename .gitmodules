@@ -4,3 +4,6 @@
 [submodule "SAMTools-Picard-Task"]
 	path = SAMTools-Picard-Task
 	url = https://github.com/WorkflowCenter-Repositories/SAMTools-Picard-Task.git
+[submodule "ImportFile-Task"]
+	path = ImportFile-Task
+	url = https://github.com/WorkflowCenter-Repositories/ImportFile-Task.git

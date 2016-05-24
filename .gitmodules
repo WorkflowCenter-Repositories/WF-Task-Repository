@@ -10,3 +10,6 @@
 [submodule "ZipFile-Task"]
 	path = ZipFile-Task
 	url = https://github.com/WorkflowCenter-Repositories/ZipFile-Task.git
+[submodule "ImportDir-Task"]
+	path = ImportDir-Task
+	url = https://github.com/WorkflowCenter-Repositories/ImportDir-Task.git

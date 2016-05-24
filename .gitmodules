@@ -13,3 +13,6 @@
 [submodule "ImportDir-Task"]
 	path = ImportDir-Task
 	url = https://github.com/WorkflowCenter-Repositories/ImportDir-Task.git
+[submodule "ExportFiles-Task"]
+	path = ExportFiles-Task
+	url = https://github.com/WorkflowCenter-Repositories/ExportFiles-Task.git
